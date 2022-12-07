@@ -1,9 +1,6 @@
 module Main where
 
 import Text.Regex.TDFA
--- import Text.Regex.TDFA.Text ()
-
-import HaskellSay (haskellSay)
 
 type Range = (Int, Int, Int, Int)
 

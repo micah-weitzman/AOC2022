@@ -1,4 +1,3 @@
-from distutils import dir_util
 import re
 
 CD = re.compile(r"\$ cd (.+)")
